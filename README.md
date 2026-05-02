@@ -1,3 +1,5 @@
+THE MODS HITBOX IS A LITTLEBIT UNDER THEIR TEXT!!! (Will be fixed later! Hopefully...)
+
 Help: 
 
 First: You should run it when the Windows Defender popped up. You can check the .py if you are cautious, its not a virus, even tho the Widows Defender says it protected your computer.
