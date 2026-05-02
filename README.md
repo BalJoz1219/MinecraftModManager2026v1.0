@@ -1,6 +1,6 @@
 Help: 
 
-First: You should run it when the Windows Defender popped up.
+First: You should run it when the Windows Defender popped up. You can check the .py if you are cautious, its not a virus, even tho the Widows Defender says it protected your computer.
 
 Second: You have to give the manager the mod's path folder via the Change mod folder path button, the mods folder is
 in the .minecraft folder, you can access it with Windows+R, than type %appdata%, into the .minecraft folder,
