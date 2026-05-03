@@ -1,4 +1,5 @@
 THE MOD'S HITBOX IS A LITTLEBIT UNDER THEIR TEXT!!! (Will be fixed later! Hopefully...)
+
 BUG FIXED: No need to delete the string while adding a mod or changing the mod folder path.
 
 Help: 
