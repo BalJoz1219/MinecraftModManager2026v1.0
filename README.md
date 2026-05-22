@@ -1,4 +1,5 @@
-<img width="1872" height="891" alt="MMRM" src="https://github.com/user-attachments/assets/f011ed7e-41d1-4ecc-bbb4-502961efc6e0" />
+<img width="1918" height="1016" alt="SIGMA" src="https://github.com/user-attachments/assets/a1154ba2-2143-4770-8930-9a4a4a0c8b2e" />
+
 THE MOD'S HITBOX IS A LITTLEBIT UNDER THEIR TEXT!!! (Will be fixed later! Hopefully...)
 
 BUG FIXED: No need to delete the string while adding a mod or changing the mod folder path.
